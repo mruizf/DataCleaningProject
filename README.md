@@ -4,7 +4,7 @@ For this project I did all in one scrip. When you load the file "run_analysis.R"
 source("./run_analysis.R") the code will do all the asked in the project, at las write a file called "newDataSet.txt",
 whit the averga per user per activity. 
 
-This script requiere be in the working directory, the "UCI HAR Dataset.zip" original file must be in the working directory too.
+This script requiere the "UCI HAR Dataset.zip" original file must be in the working directory too.
 
 In the "newDataSet.txt" each row has the id of the activity and the user and the label of the activity, the rest of the columns are the 561 original variables.
 
